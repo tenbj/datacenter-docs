@@ -1,5 +1,16 @@
 {
   "MD033": {
-    "allowed_elements": ["table", "thead", "tbody", "tr", "th", "td", "rowspan", "colspan"]
+    "allowed_elements": [
+      "table",
+      "thead",
+      "tbody",
+      "tr",
+      "th",
+      "td",
+      "font",
+      "b",
+      "rowspan",
+      "colspan"
+    ]
   }
 }
