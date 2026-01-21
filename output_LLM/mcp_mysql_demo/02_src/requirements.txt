@@ -1,0 +1,11 @@
+# MCP MySQL Server 依赖包
+# 安装命令: pip install -r requirements.txt
+
+# MCP 核心库
+mcp>=1.0.0
+
+# MySQL 数据库连接器
+mysql-connector-python>=8.0.0
+
+# 环境变量管理
+python-dotenv>=1.0.0

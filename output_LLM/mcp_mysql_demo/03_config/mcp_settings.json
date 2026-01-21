@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "mysql": {
+      "command": "python",
+      "args": ["D:/GoogleAntigravityProjects/datacenter document/output_LLM/mcp_mysql_demo/02_src/server.py"],
+      "env": {
+        "MYSQL_HOST": "172.17.1.141",
+        "MYSQL_PORT": "3307",
+        "MYSQL_USER": "test_ai",
+        "MYSQL_PASSWORD": "EB1FF34BA2C33780",
+        "MYSQL_DATABASE": "test_ai"
+      }
+    }
+  }
+}
